@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "intelligent-reach-developer-test",
+  "description": "To display the provided product data within a grid and apply the filtering options.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "node server.js"
+  },
+  "author": "Intelligent Reach",
+  "license": "ISC"
+}
